@@ -1,2 +1,2 @@
 # Add-Two-Number-
-Code is add two number using pythen
+Code is add two number with function using pythen
